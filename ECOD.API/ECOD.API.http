@@ -1,0 +1,6 @@
+@ECOD.API_HostAddress = http://localhost:5058
+
+GET {{ECOD.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
